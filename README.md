@@ -10,3 +10,8 @@ https://jupyter.org/install
 Data:
 JSON data provided by FIO API: https://doc.fnar.net/
 Thanks!
+
+Sample output:
+(open in new browser window to zoom and pan)
+
+![A graph of planets featuring 637 nodes and 775 edges.](sampleOutput.png)
