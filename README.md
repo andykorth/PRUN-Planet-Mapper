@@ -1,5 +1,5 @@
 # PRUN-Planet-Mapper
-A mapping tool for Prosperous Universe as a Jupyter notebook
+A mapping tool for Prosperous Universe as a Jupyter notebook. Write custom filters in python to visualize the more complicated attributes of planets, and draw them to a human-readable map.
 
 By Archiel of OOG
 
