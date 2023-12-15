@@ -9,6 +9,11 @@ https://jupyter.org/install
 
 Data:
 JSON data provided by FIO API: https://doc.fnar.net/
+
+Make a file called `planets.json` with the contents of https://rest.fnar.net/planet/allplanets/full (~33mb json file)
+
+Make a file called `systems.json` with the contents of https://rest.fnar.net/systemstars (~500 kb)
+
 Thanks!
 
 Sample output:
